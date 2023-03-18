@@ -1,0 +1,8 @@
+Package: usu
+Version: 1.0.0
+Maintainer: danteusu@163.com
+Section: funny
+Architecture: amd64
+Priority: optional
+Depends: libc6 (>= 2.14)
+Description: 哈吉马路哟！
